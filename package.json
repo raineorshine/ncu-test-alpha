@@ -1,0 +1,6 @@
+{
+  "name": "ncu-test-alpha",
+  "description": "A package that allows npm-check-updates to test upgrading an alpha to a higher alpha.",
+  "version": "1.0.0",
+  "author": "Raine Revere <raine@cybersemics.org> (https://github.com/raineorshine)"
+}
